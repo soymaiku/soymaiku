@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for a job  
   
 
-- ❓ Ask me about anything related to UI/UX and React  
+- ❓ Ask me about anything related to Design and React  
   
 
 - 🌱I’m currently learning ReactJS  
