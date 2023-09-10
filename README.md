@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for a job  
   
 
-- 🌱 I’m currently learning ReactJS and TypeScript  
+- 🌱 I’m currently learning ReactJS and UI/UX Design 
   
 
 - ❓ Ask me about anything related to related technologies and KPOP groups  
