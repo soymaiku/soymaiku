@@ -1,7 +1,7 @@
 ### <div align="center">I'm Mike Andrew, a graphic design and web developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently looking for a job  
+- 🔭 I’m currently working as Trust & Safety 
   
 
 - 🌱 I’m currently learning ReactJS and UI/UX Design 
